@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         
         super.viewDidLoad()
         
-        loadImage(url: "https://static.pexels.com/photos/66284/winter-nature-season-trees-66284.jpeg")
+        loadImage(url: "https://raw.githubusercontent.com/thelastjedi/Placeholder/master/Resources/winter.jpeg")
     
     }
     
